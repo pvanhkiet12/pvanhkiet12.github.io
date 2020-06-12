@@ -184,6 +184,8 @@
     width: 660px;
     height: 295px;
     background: url("../image/img3.png");
+    background-repeat: no-repeat;
+    margin-left:30px;
 }
 .img2-2{
     width: 600px;
