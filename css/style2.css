@@ -1,0 +1,24 @@
+body
+{
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,195,212,1.00) url("../image/pexels-dids-3737713.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+.link-1
+{
+    width: 20%;
+    height: 10%;
+    position: relative;
+    top:20%;
+    left: 40%;
+    
+}
+.link-1 a
+{
+    text-decoration: none;
+    font-size: 100px;
+    color: coral;
+}
