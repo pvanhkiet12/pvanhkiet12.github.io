@@ -133,7 +133,7 @@ html
     }
     30% {    
         top: 0.2rem;
-        width: 220px;
+        width: 300px;
     }
     33% {
         top: 0.2rem;
@@ -144,7 +144,7 @@ html
         width: 0;
     }
     38% {
-        top: -5.55rem;
+        top: -5.55rem;		 
         
   }
     48% {
